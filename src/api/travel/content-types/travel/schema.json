@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "travels",
+  "info": {
+    "singularName": "travel",
+    "pluralName": "travels",
+    "displayName": "travel"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "country": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "population": {
+      "type": "string"
+    },
+    "borders": {
+      "type": "string"
+    },
+    "sightseeing": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
