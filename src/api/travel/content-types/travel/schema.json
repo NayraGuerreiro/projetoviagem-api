@@ -4,7 +4,8 @@
   "info": {
     "singularName": "travel",
     "pluralName": "travels",
-    "displayName": "travel"
+    "displayName": "travel",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -30,6 +31,9 @@
       "type": "string"
     },
     "description": {
+      "type": "text"
+    },
+    "image": {
       "type": "string"
     }
   }
