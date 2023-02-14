@@ -11,19 +11,19 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Nome": {
+    "nome": {
       "type": "string"
     },
-    "Idade": {
+    "idade": {
       "type": "integer"
     },
-    "Destino": {
+    "destino": {
       "type": "string"
     },
-    "Quando": {
+    "quando": {
       "type": "date"
     },
-    "Expectativas": {
+    "expectativas": {
       "type": "text"
     }
   }
